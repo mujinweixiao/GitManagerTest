@@ -19,6 +19,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"我还在寻找");
+    
+    NSLog(@"我还在寻找22222222");
+
 }
 
 
